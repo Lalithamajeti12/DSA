@@ -1,2 +1,2 @@
 language = "java"
-run = "javac dsa/recursion/SumOfDigitsOfANumber.java && java dsa/recursion/SumOfDigitsOfANumber.java"
+run = "javac dsa/recursion/DecimalToBinary.java && java dsa/recursion/DecimalToBinary.java"
