@@ -1,2 +1,2 @@
 language = "java"
-run = "javac dsa/BigO/Temperature.java && java dsa/BigO/Temperature.java"
+run = "javac dsa/linkedlist/LinkedListDeletion.java && java dsa/linkedlist/LinkedListDeletion.java"
