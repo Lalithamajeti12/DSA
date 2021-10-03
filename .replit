@@ -1,2 +1,2 @@
 language = "java"
-run = "javac dsa/linkedlist/LinkedListDeletion.java && java dsa/linkedlist/LinkedListDeletion.java"
+run = "javac dsa/Stack/StackUsingLinkedList.java && java dsa/Stack/StackUsingLinkedList.java"
