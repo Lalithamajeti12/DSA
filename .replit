@@ -1,2 +1,2 @@
 language = "java"
-run = "javac dsa/Stack/StackUsingLinkedList.java && java dsa/Stack/StackUsingLinkedList.java"
+run = "javac dsa/Queue/QueueUsingArray.java && java dsa/Queue/QueueUsingArray.java"
